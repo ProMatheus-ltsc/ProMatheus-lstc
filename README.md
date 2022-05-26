@@ -27,7 +27,7 @@
 <br>
 
 <!-- metrics 基础资料 -->
-<div align="center">![Metrics](https://metrics.lecoq.io/ProMatheus-ltsc?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai)</div>
+<div align="center"><img src="https://metrics.lecoq.io/ProMatheus-ltsc?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai"/></div>
 <br>
 
 <!-- Dynamic Quotes -->
