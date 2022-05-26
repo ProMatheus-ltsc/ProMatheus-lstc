@@ -26,9 +26,6 @@
 </div>
 <br>
 
-<!-- metrics 基础资料 -->
-<div align="center"><img src="https://metrics.lecoq.io/ProMatheus-ltsc?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai"/></div>
-<br>
 
 <!-- Dynamic Quotes -->
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
@@ -55,17 +52,7 @@
   </tr>
 </table>
 
-<!-- Wakatime Graph-->
-<table>
-  <tr>
-    <td>
-      <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500"/>
-    </td>
-    <td>
-      <img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500"/>
-    </td>
-  </tr>
-</table>
+
 
 <!-- Dynamic Heatmap -->
 <table>
@@ -92,14 +79,3 @@
   </tr>
 </table>
 
-
-# 🎯 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-
-<!-- just img -->
-<div align="center"><img width="250px" src="https://cdn.jsdelivr.net/gh/ProMatheus-ltsc/photos/images/202110311913581.gif"/></div>
-
-<!-- plugin metrics -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/ProMatheus-ltsc/ProMatheus-ltsc/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
-  <img src="https://cdn.jsdelivr.net/gh/ProMatheus-ltsc/photos/images/202111021926704.png"/>
-</div>
