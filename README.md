@@ -27,11 +27,12 @@
 <br>
 
 <!-- metrics 基础资料 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/ProMatheus-ltsc/ProMatheus-ltsc/base_metrics.svg" alt="base metrics"/></div>
+<div align="center">![Metrics](https://metrics.lecoq.io/ProMatheus-ltsc?template=classic&base.indepth=false&config.timezone=Asia%2FShanghai)</div>
 <br>
 
 <!-- Dynamic Quotes -->
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
+<br>
 
 <!-- GitHub奖杯🏆 -->
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=ProMatheus-ltsc&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
@@ -44,61 +45,6 @@
 </div>
 <br>
 
-
-<!-- wakatime 统计 -->
-<table align="center">
-<tr>
-<td valign="top">  
-  
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    252 commits    ██████████░░░░░░░░░░░░░░░   40.06% 
-🌆 Daytime    166 commits    ██████░░░░░░░░░░░░░░░░░░░   26.39% 
-🌃 Evening    136 commits    █████░░░░░░░░░░░░░░░░░░░░   21.62% 
-🌙 Night      75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.92%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.2% 
-Tuesday      77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
-Wednesday    114 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.12% 
-Thursday     51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.11% 
-Friday       165 commits    ██████░░░░░░░░░░░░░░░░░░░   26.23% 
-Saturday     68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.81% 
-Sunday       71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.29%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Text                     1 hr 24 mins        █████████████████░░░░░░░░   68.99% 
-C                        27 mins             █████░░░░░░░░░░░░░░░░░░░░   22.85% 
-Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.3% 
-R                        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85%
-
-🔥 Editors: 
-VS Code                  2 hrs 2 mins        █████████████████████████   100.0%
-
-💻 Operating System: 
-Windows                  2 hrs 2 mins        █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 26/05/2022 02:02:28 UTC
-<!--END_SECTION:waka-->
-</td>
-</tr>
-</table>
 
 <!-- GitHub Activity Graph -->
 <table align="center">
