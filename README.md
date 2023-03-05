@@ -43,12 +43,3 @@
 <br>
 
 
-<!-- GitHub Activity Graph -->
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=ProMatheus-ltsc&theme=xcode&bg_color=FF000000&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
